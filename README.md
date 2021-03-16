@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jloser - Jochen Loser
+- 👋 Hi, I’m @jloser - Jochen Loser, yeah, funny lastname, I know.
 
-- 👀 I’m interested in programming in Python, Data Science, Statistics, ... well, I guess I am not the only one.
+- 👀 I’m interested in programming in Python, Data Science, Statistics, Machine Learning especially Natural Language Processing ... well, I guess I am not the only one.
 
 - 🌱 I’m currently working on [SimPy](https://simpy.readthedocs.io/en/latest/contents.html). I am using it to simulate a ticketing environment with customers and support advisors in order to find out the number of needed advisors based on an incoming ticket rate.
 
